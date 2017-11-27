@@ -171,7 +171,6 @@ var suggestions = [
 	{ 'value':  'giphy', 'label': 'Giphy' },  
 	{ 'value':  'cci', 'label': 'creative commons' },  
 	{ 'value':  'dauser', 'label': 'DeviantArt User' },  
-	{ 'value':  'da', 'label': 'DeviantArt' },  
 	{ 'value':  'ddgi', 'label': 'DuckDuckGo Images' },  
 	{ 'value':  'flickrcc', 'label': 'Flickr All Creative Commons' },  
 	{ 'value':  'flickr', 'label': 'Flickr' },  
