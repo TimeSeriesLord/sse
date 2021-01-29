@@ -33,6 +33,7 @@ form input.searchbutton { font-size: 1.35em; }
 #content {
   min-height: 150px;
   padding: 5px 25px 28px;
+	color: white;
 }
 
 #content table { margin-top: 22px; font-size: .95em; }
