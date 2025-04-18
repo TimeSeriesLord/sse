@@ -153,7 +153,7 @@ masto: ['Mastodon tags', 'https://qoto.org/tags/%s'],
 
 // ---[ G
 gab: ['Gab', 'https://gab.ai/search/%s'],
-esgab: ['Gab explore', 'https://gab.ai/popular'],
+popgab: ['Gab explore', 'https://gab.ai/popular'],
 htgab: ['Gab hashtags', 'https://gab.com/tags/%s'],
 
 
@@ -257,6 +257,8 @@ wpig: ['info galactic', 'https://infogalactic.com/info/Special:Search?search=%s'
 // --- [ X
 
 xumo: ['Xumo TV', 'https://www.xumo.tv/'],
+youpopx: ['X Popular for you', 'https://x.com/explore/tabs/for-you'],
+popx: ['Trending on X', 'https://x.com/explore/tabs/trending'],  
 
 // ---[ Y
 yn: ['YubNub', 'http://yubnub.org/parser/parse?command=%s'],
